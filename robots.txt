@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisezeite.trianimalia.com/sitemap.xml
